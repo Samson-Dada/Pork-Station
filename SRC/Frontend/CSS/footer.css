@@ -6,7 +6,7 @@
 }
 
 :root {
-    //Colors
+    /* Colors */
     --color-1: rgb(5, 5, 5);
     --color-2: hsla(44, 100%, 49%, 1);
     --color-3: rgb(209, 9, 9);
@@ -21,26 +21,27 @@
     --white: rgb(255, 255, 255);
     --black: rgba(0, 0, 0, 0);
 
-    //Font Families
+
+    /* Font Families */
     --dodis-ff: "Dosis", sans-serif;
     --playfair-ff: "Playfair Display", serif;
     --Roboto-mono-ff: "Roboto Mono", monospace;
 
-    //Gradients
+    /* Gradients */
     --banner: 90deg, hsl(220, 17%, 7%) 0%, hsla(220, 17%, 7%, 0.5) 100%;
 
-    // Border Radius
+    /* Border Radius */
     --radius-4: 4px;
     --radius-8: 8px;
     --radius-16: 16px;
     --radius-24: 24px;
     --radius-36: 36px;
 
-    //Shadows
-    // --shadow-1: 0 1px 4px hsla(0, 0%, 0%, 0.75);
-    // --shadow-2: 0 2px 4px hsla(350, 100%, 43%, 0.3);
+    /* Shadows */
+    --shadow-1: 0 1px 4px hsla(0, 0%, 0%, 0.75);
+    --shadow-2: 0 2px 4px hsla(350, 100%, 43%, 0.3);
 
-    //Transitions
+    /* Transitions */
     --transition-2s: all 0.2 ease;
     --transition-5s: all 0.5s ease;
     --transition-1s: all 0.1s ease-in-out;
